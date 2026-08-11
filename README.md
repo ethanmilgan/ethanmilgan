@@ -116,8 +116,8 @@ I enjoy building practical software at the intersection of **full-stack developm
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ethanmilgan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ethan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmilgan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=ethanmilgan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ethan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ethanmilgan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=ethanmilgan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
