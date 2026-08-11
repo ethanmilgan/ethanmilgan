@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/ethanmilgan?tab=followers"><img src="https://img.shields.io/github/followers/ethanmilgan?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=00d9ff" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ethanmilgan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://hits.sh/github.com/ethanmilgan.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00d9ff" alt="Profile views" />
 </p>
 
 </div>
