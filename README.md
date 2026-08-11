@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;Exploring+AI%2C+Agents+%26+Secure+Systems;Turning+ideas+into+useful+software;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/ethanmilgan?tab=followers"><img src="https://img.shields.io/github/followers/ethanmilgan?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=00d9ff" alt="GitHub followers" /></a>
+  <a href="https://github.com/ethanmilgan?tab=followers"><img src="https://img.shields.io/github/followers/ethanmilgan?label=Followers&style=for-the-badge&logo=github&labelColor=555&color=00d9ff" alt="GitHub followers" /></a>
   <img src="https://hits.sh/github.com/ethanmilgan.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00d9ff" alt="Profile views" />
 </p>
 
