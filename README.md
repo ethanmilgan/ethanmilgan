@@ -78,13 +78,13 @@ I enjoy building practical software at the intersection of **full-stack developm
       <h3>🧪 WuLIMS</h3>
       <p>A secure laboratory information management system supporting sample tracking, chain of custody, experiments, QA reviews, reports, and approval workflows.</p>
       <p><strong>Built with:</strong> Python, Django, HTMX, Alpine.js, Bootstrap, PostgreSQL, Docker</p>
-      <a href="https://github.com/Walsh-University/WuLims">View project →</a>
+      <a href="https://github.com/Walsh-University/WuLims"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View WuLIMS project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 NextRole.Ai</h3>
       <p>An AI-powered multi-agent copilot that finds job listings, evaluates resume ATS matches, and automates applications with secure human-in-the-loop checkpoints.</p>
       <p><strong>Built with:</strong> Python, Google ADK, FastAPI, React, Playwright, SQLite</p>
-      <a href="https://github.com/ethanmilgan/AI-Agents-Intensive-Vibe-Coding-Capstone-Project">View project →</a>
+      <a href="https://github.com/ethanmilgan/AI-Agents-Intensive-Vibe-Coding-Capstone-Project"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View NextRole.Ai project" /></a>
     </td>
   </tr>
   <tr>
@@ -92,13 +92,13 @@ I enjoy building practical software at the intersection of **full-stack developm
       <h3>🌐 Style Edit by Reena</h3>
       <p>A production personal-styling website with customer accounts and an admin CMS for managing page content, services, and media.</p>
       <p><strong>Built with:</strong> Next.js, React, Tailwind CSS, MongoDB, PostgreSQL, Vercel</p>
-      <a href="https://github.com/ethanmilgan/styleeditbyreena">View project →</a>
+      <a href="https://github.com/ethanmilgan/styleeditbyreena"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Style Edit by Reena project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 New Dubai Nursery</h3>
       <p>A modern early-learning center website featuring official photography, admissions resources, and centralized contact and location information.</p>
       <p><strong>Built with:</strong> Next.js, React, Tailwind CSS, JavaScript, Vercel</p>
-      <a href="https://github.com/ethanmilgan/New-Dubai-Nursery">View project →</a>
+      <a href="https://github.com/ethanmilgan/New-Dubai-Nursery"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View New Dubai Nursery project" /></a>
     </td>
   </tr>
 </table>
