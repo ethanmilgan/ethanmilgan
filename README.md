@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;Exploring+AI%2C+Agents+%26+Secure+Systems;Turning+ideas+into+useful+software;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/ethanmilgan?tab=followers"><img src="https://img.shields.io/github/followers/ethanmilgan?label=Followers&style=for-the-badge&logo=github&labelColor=555&color=00d9ff" alt="GitHub followers" /></a>
-  <img src="https://hits.sh/github.com/ethanmilgan.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00d9ff" alt="Profile views" />
+  <a href="https://github.com/ethanmilgan?tab=followers"><img src="https://img.shields.io/github/followers/ethanmilgan?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;labelColor=555&amp;color=00d9ff" alt="GitHub followers" /></a>
+  <img src="https://hits.sh/github.com/ethanmilgan.svg?style=for-the-badge&amp;label=PROFILE%20VIEWS&amp;color=00d9ff" alt="Profile views" />
 </p>
 
 </div>
@@ -78,13 +78,13 @@ I enjoy building practical software at the intersection of **full-stack developm
       <h3>🧪 WuLIMS</h3>
       <p>A secure laboratory information management system supporting sample tracking, chain of custody, experiments, QA reviews, reports, and approval workflows.</p>
       <p><strong>Built with:</strong> Python, Django, HTMX, Alpine.js, Bootstrap, PostgreSQL, Docker</p>
-      <a href="https://github.com/Walsh-University/WuLims"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View WuLIMS project" /></a>
+      <a href="https://github.com/Walsh-University/WuLims"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="View WuLIMS project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 NextRole.Ai</h3>
       <p>An AI-powered multi-agent copilot that finds job listings, evaluates resume ATS matches, and automates applications with secure human-in-the-loop checkpoints.</p>
       <p><strong>Built with:</strong> Python, Google ADK, FastAPI, React, Playwright, SQLite</p>
-      <a href="https://github.com/ethanmilgan/AI-Agents-Intensive-Vibe-Coding-Capstone-Project"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View NextRole.Ai project" /></a>
+      <a href="https://github.com/ethanmilgan/AI-Agents-Intensive-Vibe-Coding-Capstone-Project"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="View NextRole.Ai project" /></a>
     </td>
   </tr>
   <tr>
@@ -92,13 +92,15 @@ I enjoy building practical software at the intersection of **full-stack developm
       <h3>🌐 Style Edit by Reena</h3>
       <p>A production personal-styling website with customer accounts and an admin CMS for managing page content, services, and media.</p>
       <p><strong>Built with:</strong> Next.js, React, Tailwind CSS, MongoDB, PostgreSQL, Vercel</p>
-      <a href="https://github.com/ethanmilgan/styleeditbyreena"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Style Edit by Reena project" /></a>
+      <a href="https://github.com/ethanmilgan/styleeditbyreena"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="View Style Edit by Reena project" /></a>
+      <a href="https://www.styleeditbyreena.com/"><img src="https://img.shields.io/badge/Visit_Website-00D9FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit the Style Edit by Reena website" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 New Dubai Nursery</h3>
       <p>A modern early-learning center website featuring official photography, admissions resources, and centralized contact and location information.</p>
       <p><strong>Built with:</strong> Next.js, React, Tailwind CSS, JavaScript, Vercel</p>
-      <a href="https://github.com/ethanmilgan/New-Dubai-Nursery"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View New Dubai Nursery project" /></a>
+      <a href="https://github.com/ethanmilgan/New-Dubai-Nursery"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="View New Dubai Nursery project" /></a>
+      <a href="https://newdubainursery.vercel.app/"><img src="https://img.shields.io/badge/Visit_Website-00D9FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit the New Dubai Nursery website" /></a>
     </td>
   </tr>
 </table>
@@ -116,12 +118,12 @@ I enjoy building practical software at the intersection of **full-stack developm
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=ethanmilgan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ethan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ethanmilgan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=ethanmilgan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Ethan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ethanmilgan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=ethanmilgan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=ethanmilgan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanmilgan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanmilgan&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
 
 </div>
 
