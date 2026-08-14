@@ -18,7 +18,7 @@ ethan = {
     "role": "Software Engineer & Full-Stack Developer",
     "education": "Computer Science Programming + Cybersecurity",
     "interests": ["Artificial Intelligence", "Agentic AI", "Cloud", "Secure Software"],
-    "currently_building": "WuLIMS — a secure laboratory information management system",
+    "currently_building": ["WuLIMS", "Style Edit by Reena", "New Dubai Nursery"],
     "outside_tech": "NCAA Division II tennis athlete",
     "mindset": "Stay curious. Build thoughtfully. Keep improving."
 }
@@ -118,12 +118,28 @@ I enjoy building practical software at the intersection of **full-stack developm
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=ethanmilgan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Ethan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ethanmilgan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
+<a href="https://github.com/ethanmilgan">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanmilgan&amp;theme=tokyonight" alt="Ethan's GitHub contribution dashboard" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=ethanmilgan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanmilgan&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethanmilgan&amp;theme=tokyonight" alt="Repositories by language" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ethanmilgan&amp;theme=tokyonight" alt="Commits by language" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ethanmilgan&amp;theme=tokyonight" alt="GitHub account statistics" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ethanmilgan&amp;theme=tokyonight&amp;utcOffset=-4" alt="Commit activity by time of day" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
